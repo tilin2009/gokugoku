@@ -39,8 +39,7 @@ version = 0.1
 # comma separated e.g. requirements = sqlite3,kivy
 requirements = [app]
 ...
-requirements = kivymd==0.104.1
-python3==3.7.6,hostpython3--3.7.6, kivy, pillow
+requirements = kivymd==0.104.1,python3==3.7.6,hostpython3==3.7.6,kivy,pillow
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
